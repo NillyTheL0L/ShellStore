@@ -4,3 +4,4 @@
 <h3>wget https://bit.ly/shstoreBuild</h3>
 <h2>and use</h2>
 <h3>chmod +x shstoreBuild<br>./shstoreBuild</h3>
+<h4>all day posting update</h4>
